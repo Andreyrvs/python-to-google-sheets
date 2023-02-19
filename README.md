@@ -14,7 +14,7 @@ Aplicação:
 * clone o projeto:
 
 ```bash
-git clone 
+git clone git@github.com:Andreyrvs/python-to-google-sheets.git
 ```
 
 ## Executando aplicação
